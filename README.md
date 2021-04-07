@@ -13,7 +13,7 @@ I don't mean to use this as a CV, but if you need help I have experience to vary
 * C#
 * Java
 * Linux (inc. shell scripts etc)
-* Windows (incl. powershell etc, kixstart scripts maybe)
+* Windows (incl. powershell etc)
 * DOS (and yes, batch files)
 * Haiku
 
@@ -44,6 +44,8 @@ This offer is good for any snippet or library i relase before today, the 7th day
 Snippets less than 15 lines I release into the public domain where that is possible, or in CC0 if not.
 Please do leave comments or bug reports if you'd like me to specify the license somewhere I've missed, though.
 
+
+TODO: shorten this, to procrastinate even more
 <!---
 SneakyWhoami/SneakyWhoami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
