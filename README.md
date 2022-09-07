@@ -1,3 +1,5 @@
+Jetbrains OSS request ID is `04092022/9960540`
+
 - 👋 Hi, I’m @SneakyWhoami (Chris)
 - 👀 I’m interested in Free software, web 1.0 renaissance, self-hosting, tinkering and portage
 - 🌱 I’m currently learning RYO CI, mostly for C++ projects, and (mostly Debian) packaging
