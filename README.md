@@ -25,7 +25,7 @@ I have a diploma in IT and I'm just finishing up a degree in Software Engineerin
 
 I use mostly Firefox right now, although I haven't felt right with it since E10S. My favourite modern web engine is Webkit. My overall favourite is KHTML.
 
-For software that is not a complete program (eg a library, if I haven't explicitly specified a license, please accept it as LGPL-2.1 as described [here](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (or any later version, if you need that).
+For software that is not a complete program (eg a library) if I haven't explicitly specified a license, please accept it as LGPL-2.1 as described [here](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (or any later version, if you need that).
 This offer is good for any snippet or library i released before today, the 7th day of April, 2021.
 Snippets less than 15 lines I release into the public domain where that is possible, or in CC0 if not.
 Please do leave comments or bug reports if you'd like me to specify the license somewhere I've missed, though.
